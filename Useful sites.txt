@@ -1,0 +1,18 @@
+
+#Reference sites
+
+Particles - https://minecraft.fandom.com/wiki/Particles
+Addons documentation - https://docs.microsoft.com/en-us/minecraft/creator/documents/gettingstarted
+Gametest -  https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/
+Behaviour packs - https://docs.microsoft.com/en-us/minecraft/creator/documents/behaviorpack
+Resourcepacks - https://docs.microsoft.com/en-us/minecraft/creator/documents/resourcepack
+CommandBlockTutiorials - https://minecraft.fandom.com/wiki/Tutorials/Command_blocks_and_functions#Commanding_Passwords #doesnt have much for bedrock 
+BedrockEdition Data values - https://minecraft.fandom.com/wiki/Bedrock_Edition_data_values
+Spawn Events - https://minecraft.fandom.com/wiki/Spawn_event
+effect id'shttps://minecraft.fandom.com/wiki/Effect
+enchant id's https://minecraft.fandom.com/el/wiki/Enchanting/ID
+
+#Others
+Circle Gen - https://geteasypath.com/minecraft-circle-generator/
+
+           

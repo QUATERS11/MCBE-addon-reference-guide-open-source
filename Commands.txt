@@ -1,0 +1,8 @@
+#usefull for both function packs and command block based creations.
+
+
+#1. @p[c=-1] will target the furthest player
+@a[c=3] — Select the nearest three players.
+@a[c=-4] — Select the furthest four players.
+@r[c=2] — Select two living players, chosen randomly.
+[NOTE:- any values except "@e" could be used]

@@ -6,3 +6,11 @@
 @a[c=-4] — Select the furthest four players.
 @r[c=2] — Select two living players, chosen randomly.
 [NOTE:- any values except "@e" could be used]
+
+
+
+#Colour codes 
+White
+Black
+Green
+

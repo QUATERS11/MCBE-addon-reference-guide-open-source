@@ -1,0 +1,79 @@
+Sheep
+Cow
+Fox
+Bat
+Chicken
+Cod
+Ocelot
+Pig
+Baby piglin
+Baby polar bear
+Snow golem
+Rabbit
+Salmon
+Mooshroom
+Squid
+Strider
+Tropical fish
+Turtle
+Villager
+Wandering trader
+Pufferfish
+Axolotl
+Glow Squid
+Frog (coming soon in The Wild update)
+Donkey
+Horse
+Cat
+Parrot
+Mule
+Skeleton horse
+Allay (coming soon in The Wild update)
+Dolphin
+Polar bear
+Trader llama
+Llama
+Panda
+Wolf
+Bee
+Iron golem
+Goat
+Spider
+Cave Spider
+Enderman
+Zombie Pigman
+Piglin
+Zombified Piglin
+phantom
+Evoker
+Vindicator
+Pillager
+Ravager
+Ravager Jockey
+Vex
+Chicken Jockey
+Endermite
+Guardian
+Elder Guardian
+Shulker
+Skeleton Horseman
+Husk
+Stray
+Phantom
+Blaze
+Creeper
+Ghast
+Magma Cube
+Silverfish
+Skeleton
+Slime
+Spider Jockey
+Zombie
+Zombie Villager
+Drowned
+Wither Skeleton
+Witch
+Hoglin
+Zoglin
+Piglin Brute
+Warden (coming soon in The Wild update)

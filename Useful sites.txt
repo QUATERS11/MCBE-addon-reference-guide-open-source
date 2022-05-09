@@ -14,5 +14,6 @@ enchant id's https://minecraft.fandom.com/el/wiki/Enchanting/ID
 
 #Others
 Circle Gen - https://geteasypath.com/minecraft-circle-generator/
+Manifest gen - https://tools.pixelpoly.co/manifest-generator
 
            

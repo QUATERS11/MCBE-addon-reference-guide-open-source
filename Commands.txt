@@ -14,3 +14,6 @@ White
 Black
 Green
 
+# "*" in titleraw / tellraw (where ever selectors are used)
+Using "*" instead of specific selector like @a / @e etc , would show their score to self instead of any other player's
+eg - titleraw @a actionbar {"rawtext":[{"score":{"name":"*" , {"objective":"Money"}}}]} ---> Here it would display every player's money on their screen . 
